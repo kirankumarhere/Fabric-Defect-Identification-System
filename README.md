@@ -4,6 +4,8 @@ The conveyor belt system has the fabric on it.
 Connect the conveyor belt's motors to motor-driver and the motor-driver to arduino. Power the motor-driver from power-supply.
 Connect arduino and camera to PC via USB.
 
+Upload the motor_and_cam.ino file to arduino.
+
 Using the file retrained_graph.pb...Run the code python motor_cam_2_pattern_no_pat.py 
 using the command: python motor_cam_2_pattern_no_pat.py
 
