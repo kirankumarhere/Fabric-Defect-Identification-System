@@ -15,7 +15,7 @@ NOTE:
 sudo usermod -a -G dialout "USERNAME OF THE SYSTEM"
 sudo chmod a+rw /dev/ttyACM0
 
-Refer the ppt and https://www.linkedin.com/pulse/iiitdm-students-find-way-automate-fabric-inspection-placement-cell-/ for more details.
+Refer the ppt, https://www.linkedin.com/pulse/iiitdm-students-find-way-automate-fabric-inspection-placement-cell-/ and https://www.youtube.com/watch?v=hiOQAwpi-XY for more details.
 
 
 
