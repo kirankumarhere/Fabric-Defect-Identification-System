@@ -10,7 +10,7 @@ Using the file retrained_graph.pb...Run the code python motor_cam_2_pattern_no_p
 using the command: python motor_cam_2_pattern_no_pat.py
 
 NOTE:
-#if any usb problem arises in STEP 2, execute these two commands in terminal and try STEP 2 again...
+If any usb problem arises while running the motor_cam_2_pattern_no_pat code, execute these two commands in terminal and try again...
 
 sudo usermod -a -G dialout "USERNAME OF THE SYSTEM"
 sudo chmod a+rw /dev/ttyACM0
