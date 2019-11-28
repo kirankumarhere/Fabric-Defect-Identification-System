@@ -15,7 +15,7 @@ If any usb problem arises while running the motor_cam_2_pattern_no_pat code, exe
   1)sudo usermod -a -G dialout "USERNAME OF THE SYSTEM"  
   2)sudo chmod a+rw /dev/ttyACM0
 
-Refer the ppt, https://www.linkedin.com/pulse/iiitdm-students-find-way-automate-fabric-inspection-placement-cell-/ and https://www.youtube.com/watch?v=hiOQAwpi-XY for more details.
+Refer the ppt and https://www.youtube.com/watch?v=hiOQAwpi-XY for more details.
 
 
 
